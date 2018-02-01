@@ -6,8 +6,8 @@ require "kaimurai_copyright_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "kaimurai_copyright_tool"
   spec.version       = KaimuraiCopyrightTool::VERSION
-  spec.authors       = ["TODO: Charles Clemens"]
-  spec.email         = ["TODO: thekaimurai@gmail.com"]
+  spec.authors       = ["Charles Clemens"]
+  spec.email         = ["thekaimurai@gmail.com"]
 
   spec.summary       = %q{Display a custom copyright with the current year, name, and a message that says all rights reserved. It's kind of a big deal.}
   spec.homepage      = "https://kaimurai.com"
